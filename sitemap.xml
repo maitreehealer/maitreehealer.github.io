@@ -2,16 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://maitreehealer.com/autism/index.html</loc>
+    <loc>https://maitreehealer.com/services/index.html</loc>
     
-    <lastmod>2024-10-09</lastmod>
+    <lastmod>2024-10-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://maitreehealer.com/testimonial/index.html</loc>
+    <loc>https://maitreehealer.com/autism/index.html</loc>
+    
+    <lastmod>2024-10-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://maitreehealer.com/testimonial/index.html</loc>
     
     <lastmod>2024-08-30</lastmod>
     
@@ -20,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://maitreehealer.com/2024/04/18/maitree/</loc>
+    <loc>https://maitreehealer.com/2024/04/18/maitree/</loc>
     
     <lastmod>2024-08-30</lastmod>
     
@@ -29,16 +38,7 @@
   </url>
   
   <url>
-    <loc>http://maitreehealer.com/services/index.html</loc>
-    
-    <lastmod>2024-08-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://maitreehealer.com/books/index.html</loc>
+    <loc>https://maitreehealer.com/books/index.html</loc>
     
     <lastmod>2024-05-24</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://maitreehealer.com/gift/index.html</loc>
+    <loc>https://maitreehealer.com/gift/index.html</loc>
     
     <lastmod>2024-04-19</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://maitreehealer.com/earthing/index.html</loc>
+    <loc>https://maitreehealer.com/earthing/index.html</loc>
     
     <lastmod>2024-04-19</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://maitreehealer.com/contact/index.html</loc>
+    <loc>https://maitreehealer.com/contact/index.html</loc>
     
     <lastmod>2024-04-19</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>http://maitreehealer.com/about/index.html</loc>
+    <loc>https://maitreehealer.com/about/index.html</loc>
     
     <lastmod>2024-04-19</lastmod>
     
@@ -84,7 +84,7 @@
   
 
   <url>
-    <loc>http://maitreehealer.com/</loc>
+    <loc>https://maitreehealer.com/</loc>
     <lastmod>2024-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
