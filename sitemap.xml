@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://maitreehealer.com/contact/index.html</loc>
+    <loc>https://maitreehealer.com/2024/11/14/maitree/</loc>
     
-    <lastmod>2024-11-01</lastmod>
+    <lastmod>2024-11-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://maitreehealer.com/2024/04/18/maitree/</loc>
+    <loc>https://maitreehealer.com/contact/index.html</loc>
     
-    <lastmod>2024-10-31</lastmod>
+    <lastmod>2024-11-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -85,7 +85,7 @@
 
   <url>
     <loc>https://maitreehealer.com/</loc>
-    <lastmod>2024-11-01</lastmod>
+    <lastmod>2024-11-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
