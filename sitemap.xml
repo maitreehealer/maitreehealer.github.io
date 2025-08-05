@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://maitreehealer.com/contact/index.html</loc>
+    
+    <lastmod>2025-08-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://maitreehealer.com/earthing/index.html</loc>
+    
+    <lastmod>2025-08-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://maitreehealer.com/donate/index.html</loc>
     
     <lastmod>2025-07-30</lastmod>
@@ -12,15 +30,6 @@
   
   <url>
     <loc>https://maitreehealer.com/emotional_wellness/index.html</loc>
-    
-    <lastmod>2025-07-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://maitreehealer.com/contact/index.html</loc>
     
     <lastmod>2025-07-30</lastmod>
     
@@ -73,19 +82,10 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://maitreehealer.com/earthing/index.html</loc>
-    
-    <lastmod>2024-04-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://maitreehealer.com/</loc>
-    <lastmod>2025-07-30</lastmod>
+    <lastmod>2025-08-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
