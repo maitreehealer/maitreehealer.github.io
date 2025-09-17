@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://maitreehealer.com/testimonial/index.html</loc>
+    
+    <lastmod>2025-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://maitreehealer.com/faq/index.html</loc>
     
     <lastmod>2025-09-15</lastmod>
@@ -56,15 +65,6 @@
   </url>
   
   <url>
-    <loc>https://maitreehealer.com/testimonial/index.html</loc>
-    
-    <lastmod>2025-03-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://maitreehealer.com/2024/11/14/maitree/</loc>
     
     <lastmod>2025-02-09</lastmod>
@@ -94,7 +94,7 @@
 
   <url>
     <loc>https://maitreehealer.com/</loc>
-    <lastmod>2025-09-15</lastmod>
+    <lastmod>2025-09-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
