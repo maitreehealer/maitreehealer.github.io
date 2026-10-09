@@ -4,7 +4,7 @@
   <url>
     <loc>https://maitreehealer.com/vibrant-again/index.html</loc>
     
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-10-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -47,6 +47,15 @@
   </url>
   
   <url>
+    <loc>https://maitreehealer.com/cancerpilot/index.html</loc>
+    
+    <lastmod>2026-04-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://maitreehealer.com/books/index.html</loc>
     
     <lastmod>2026-04-13</lastmod>
@@ -65,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://maitreehealer.com/cancerpilot/index.html</loc>
+    <loc>https://maitreehealer.com/donate/index.html</loc>
     
     <lastmod>2026-04-13</lastmod>
     
@@ -75,15 +84,6 @@
   
   <url>
     <loc>https://maitreehealer.com/earthing/index.html</loc>
-    
-    <lastmod>2026-04-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://maitreehealer.com/donate/index.html</loc>
     
     <lastmod>2026-04-13</lastmod>
     
@@ -112,7 +112,7 @@
 
   <url>
     <loc>https://maitreehealer.com/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-10-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
